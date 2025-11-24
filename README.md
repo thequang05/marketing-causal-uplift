@@ -37,10 +37,3 @@ Build a causal inference model to identify customers who are positively influenc
 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, RandomForestClassifier, Causal Inference (T-Learner)
-
-## Next Steps
-1. Experiment with alternative uplift models (XGBoost, LightGBM, Causal Forest)
-2. Hyperparameter tuning & cross-validation for each model
-3. Validate insights via A/B testing in production
-4. Add cost-benefit / ROI analysis to quantify financial impact
-5. Enrich the feature set (temporal behavior, campaign-level signals, etc.)
