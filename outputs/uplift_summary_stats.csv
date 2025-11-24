@@ -1,0 +1,2 @@
+Total Customers,Customers with Positive Uplift,Average Uplift Score,Median Uplift Score,Max Uplift Score,Min Uplift Score,Treatment Model Accuracy,Control Model Accuracy,AUUC Score
+1250,993,0.05501812673886087,0.04775585839466475,0.3885760554571415,-0.24762561005896006,0.896,0.8952,20724.367201936628
